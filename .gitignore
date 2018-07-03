@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # the data directory
 data/
 
@@ -105,3 +106,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+=======
+.vscode
+__pycache__
+>>>>>>> 531828a720ef5628be6bcbba875954a4755fe926
